@@ -4,4 +4,6 @@ Essa loja foi criada como projeto final do curso: Vue.js: Creating and Hosting a
 
 Nesse curso eu aprendi o processo básico de criação de uma app simples com Vue.js, node.js e com MongoDb.
 
+Front-end e back-end conversam por meio de biblioteca Axios.
+
 A app está hospedada e disponível no [Heroku](https://fierce-stream-42143.herokuapp.com/products/)
